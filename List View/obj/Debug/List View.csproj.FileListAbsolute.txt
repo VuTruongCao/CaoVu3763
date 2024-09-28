@@ -1,0 +1,11 @@
+C:\CodeC#\2280603763_TruongCaoVu\List View\obj\Debug\List View.csproj.AssemblyReference.cache
+C:\CodeC#\2280603763_TruongCaoVu\List View\obj\Debug\List_View.Form1.resources
+C:\CodeC#\2280603763_TruongCaoVu\List View\obj\Debug\List_View.Properties.Resources.resources
+C:\CodeC#\2280603763_TruongCaoVu\List View\obj\Debug\List View.csproj.GenerateResource.cache
+C:\CodeC#\2280603763_TruongCaoVu\List View\obj\Debug\List View.csproj.CoreCompileInputs.cache
+C:\CodeC#\2280603763_TruongCaoVu\List View\obj\Debug\List_View.NhanVienForm.resources
+C:\CodeC#\2280603763_TruongCaoVu\List View\bin\Debug\List View.exe.config
+C:\CodeC#\2280603763_TruongCaoVu\List View\bin\Debug\List View.exe
+C:\CodeC#\2280603763_TruongCaoVu\List View\bin\Debug\List View.pdb
+C:\CodeC#\2280603763_TruongCaoVu\List View\obj\Debug\List View.exe
+C:\CodeC#\2280603763_TruongCaoVu\List View\obj\Debug\List View.pdb
